@@ -1,3 +1,23 @@
+
+# Introduction
+
+This work report the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization. 
+The same refers to transforming raw data.
+
+About the script and the tidy dataset
+
+I created a script called run_analysis.R which will merge the test and training sets together. Prerequisites for this script:
+
+the UCI HAR Dataset must be extracted and..
+the UCI HAR Dataset must be availble in a directory called "UCI HAR Dataset"
+
+After merging testing and training, labels are added and only columns that have to do with mean and standard deviation are kept.
+
+
+And no less important below is the way in which the file was created the file tidy data set containing the means of all the columns per test subject and per activity, which can also be found in this repository.
+
+Below is a summary of the activities that were carried out.
+
 # Downloading and unzipping dataset
 
 if(!file.exists("./data")){dir.create("./data")}
