@@ -105,4 +105,4 @@ Measurements were extracted for mean, standard deviation for each measurement.
 
 variable/column names were labeled with descriptive cleaner names.
 
-Results were output as an indepenent tidy data set at ./data/TidyDataSet.txt
+Results as output as in the data set at file tidy.txt
