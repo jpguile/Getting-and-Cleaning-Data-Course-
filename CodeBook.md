@@ -7,10 +7,9 @@ This code book result data fields of file tidy.txt.
 
 SubjectId -> The ID of the test subject
 
-activityId -> The type of activity performed when the corresponding measurements were taken
+ActivityId -> The type of activity performed when the corresponding measurements were taken
 
 # Below are the measurements
-
 
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
