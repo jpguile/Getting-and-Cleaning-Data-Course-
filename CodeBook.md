@@ -6,6 +6,7 @@ This code book result data fields of file tidy.txt.
 # The idenfiers are:
 
 SubjectId -> The ID of the test subject
+
 activityId -> The type of activity performed when the corresponding measurements were taken
 
 # Below are the measurements
